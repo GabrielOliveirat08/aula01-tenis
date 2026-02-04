@@ -1,0 +1,28 @@
+body {
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+    background-color: #2B2B2B;
+    color: #FFFFFF;
+}
+
+h1 {
+    display: inline-block;
+    padding: 14px 24px;
+    border: 2px solid #FF1E1E;
+    border-radius: 8px;
+    font-size: 24px;
+    background-color: #1F1F1F;
+}
+
+.envio {
+    color: #B3B3B3;
+}
+
+img {
+    max-width: 400px;
+    margin: 20px auto;
+    border-radius: 15px;
+}
+h3 {
+    color: #FF4D4D;
+}
